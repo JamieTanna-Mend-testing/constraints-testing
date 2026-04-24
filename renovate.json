@@ -3,6 +3,9 @@
 	"extends": [
 		"config:recommended"
 	],
+	"branchConcurrentLimit": 100,
+	"prConcurrentLimit": 100,
+	"prHourlyLimit": 100,
 	"constraints": {
 		"uv": "1.0.*",
 		"go": "1.25.9",
