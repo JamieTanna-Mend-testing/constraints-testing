@@ -9,7 +9,7 @@
 	"constraints": {
 		"uv": "1.0.*",
 		"go": "1.25.1",
-		"golang": "1.25.1",
+		"golang": "1.26.2",
 		"npm": "^5.0.0",
 		"php": ">=8.2 <8.3"
 	},
@@ -28,7 +28,7 @@
 				"go.mod"
 			],
 			"constraints": {
-				"golang": "1.20"
+				"golang": "1.26"
 			}
 		}
 	]
